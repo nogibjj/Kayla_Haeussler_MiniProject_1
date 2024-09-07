@@ -10,13 +10,13 @@ The purpose of this assignment was to create an repository creating a  Python te
 
 
 # Included Features
-- .devcontainer: ensures a 
+- .devcontainer
 - Dockerfile
 - Makefile: containing make install, make test, make lint
-- CI/CD Pipeline: Automates
+- CI/CD Pipeline
 - Requirements.txt
 
 Main Function
-The main function (defined in main.py) is the add function, which takes two variables, num1 and num2, and returns their sum. Tests for this function are defined in test_main.py
+The main function (defined in main.py) is the add function, which takes two variables, num1 and num2, and returns their sum. Tests for this function are defined in test.py
 
 In order to use this template, load the repository to codespace or your local machine
