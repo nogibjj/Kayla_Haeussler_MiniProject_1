@@ -6,9 +6,9 @@
 IDS 706: Mini Project 1
 Kayla Haeussler
 
-The purpose of this assignment was to create an assignment containing Python template to be used for future projects with best practices in place for testing, development and deployment.
+The purpose of this assignment was to create an repository creating a  Python template to be used for future projects with best practices in place for testing, development and deployment.
 
-# Features
+# Included Features
 - .devcontainer: ensures a 
 - Dockerfile
 - Makefile
