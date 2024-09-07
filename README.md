@@ -16,5 +16,7 @@ The purpose of this assignment was to create an repository creating a  Python te
 - CI/CD Pipeline: Automates
 - Requirements.txt
 
-  # Main Function
-The main function is the add function, which takes two variables
+Main Function
+The main function (defined in main.py) is the add function, which takes two variables, num1 and num2, and returns their sum. Tests for this function are defined in test_main.py
+
+In order to use this template, load the repository to codespace or your local machine
